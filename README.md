@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I am Gambari Bukola Ramat, I am from Kwara State. I am a business woman, I sell cereal and beverages.
 
 # Hi, I'm Rhamat 👋
@@ -53,3 +54,6 @@ If you're working on an interesting project, exploring a new technology, or simp
 Thanks for visiting my profile! ⭐
 
 > **Keep learning. Keep building. Keep improving.**
+=======
+I am Gambari Bukola Ramat, I am from Kwara State. I am a business woman, I sell cereal and beverages. I am starting my Data Analysis and journey and ready to be a professional Data Analyst.
+>>>>>>> e7ce60bb879b15cd4f344ae73be93bc6fd5454e4
